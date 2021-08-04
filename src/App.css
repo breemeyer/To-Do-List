@@ -1,0 +1,22 @@
+body {
+background-color: #eee5da;
+text-align: center;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 36px;
+  color: purple;
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: black;
+}
+
+h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: plum;
+}
